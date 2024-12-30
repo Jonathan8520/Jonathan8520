@@ -17,7 +17,7 @@
 #### Outils de développement
 ![IntelliJ](https://img.icons8.com/color/48/000000/intellij-idea.png) 
 ![PhpStorm](https://img.icons8.com/color/48/000000/phpstorm.png) 
-![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png) 
+![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) 
 ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) 
 
 #### Base de données
