@@ -2,8 +2,7 @@
 
 ## Étudiant en L3 MIAGE
 
-### Portfolio
-[Mon Portfolio](https://jonathan8520.github.io/Portfolio_Jonathan-Levy)
+## [Mon Portfolio](https://jonathan8520.github.io/Portfolio_Jonathan-Levy)
 
 ### Compétences
 
