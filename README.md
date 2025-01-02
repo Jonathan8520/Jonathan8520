@@ -1,8 +1,10 @@
-# Levy Jonathan
+# 🚀 **Levy Jonathan** 🚀
 
-## Étudiant en L3 MIAGE
+## 🎓 Étudiant en L3 MIAGE
 
-## [Mon Portfolio](https://jonathan8520.github.io/Portfolio_Jonathan-Levy)
+### 🌐 [Mon Portfolio](https://jonathan8520.github.io/Portfolio_Jonathan-Levy) | 🌐 [Mon LinkedIn](https://www.linkedin.com/in/jonathan-levy-194439254/)
+
+---
 
 ### Compétences
 
